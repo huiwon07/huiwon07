@@ -112,4 +112,4 @@
 
 
 git config --global user.email "huiwon070518@gmail.com"
-git config --global user.name "huiwon0"
+git config --global user.name "huiwon"
